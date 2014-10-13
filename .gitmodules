@@ -1,0 +1,8 @@
+[submodule "c0_b0"]
+	path = c0_b0
+	url = ../test-child0
+	branch = b0
+[submodule "c0"]
+	path = c0
+	url = ../test-child0
+	branch = master
