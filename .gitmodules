@@ -9,3 +9,8 @@
 [submodule "c0_master"]
 	path = c0_master
 	url = git@github.com:danfike/test-child0.git
+	branch = master
+[submodule "d0"]
+	path = d0
+	url = ../test-child0
+	branch = master
